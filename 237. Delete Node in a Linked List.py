@@ -34,13 +34,12 @@ class Solution:
 if __name__ == '__main__':
     print('Hello World!')
     
-    root = ListNode(4)
-    node = root
-    vals = [5, 1, 9]
-    while vals != []:
-        node.next = ListNode(vals.pop(0))
-        node = node.next
+    vals = [4, 5, 1, 9]
+    nodes = [ListNode(val) for val in vals]
+    for i, node in enumerate(nodes[:-1]):
+        node.next = nodes[i + 1]
     
+    root = nodes[0]
     solution = Solution()
     solution.deleteNode(node=root.next)
     
