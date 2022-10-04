@@ -1,11 +1,11 @@
-# !/usr/bin/env python
+
 # -*- coding:utf-8 _*-
 # @Author: swang
 # @Contact: wang00sheng@gmail.com
 # @Project Name: LeetCode
 # @File: 46. Permutations.py
 # @Time: 2022/04/02/12:31
-# @Software: PyCharm
+
 import os, sys
 import time
 import random

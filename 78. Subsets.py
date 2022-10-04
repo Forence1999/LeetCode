@@ -1,11 +1,11 @@
-# !/usr/bin/env python
+
 # -*- coding:utf-8 _*-
 # @Author: swang
 # @Contact: wang00sheng@gmail.com
 # @Project Name: LeetCode
 # @File: 78. Subsets4.py
 # @Time: 2022/04/02/12:24
-# @Software: PyCharm
+
 import os, sys
 import time
 import random

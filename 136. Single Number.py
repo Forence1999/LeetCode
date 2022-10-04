@@ -1,11 +1,11 @@
-# !/usr/bin/env python
+
 # -*- coding:utf-8 _*-
 # @Author: swang
 # @Contact: wang00sheng@gmail.com
 # @Project Name: LeetCode
 # @File: 136. Single Number.py
 # @Time: 2022/04/01/20:47
-# @Software: PyCharm
+
 import os, sys
 import time
 import random

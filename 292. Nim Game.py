@@ -1,11 +1,11 @@
-# !/usr/bin/env python
+
 # -*- coding:utf-8 _*-
 # @Author: swang
 # @Contact: wang00sheng@gmail.com
 # @Project Name: Leetcode
 # @File: Nim Game.py
 # @Time: 2022/03/06/16:00
-# @Software: PyCharm
+
 import os, sys
 import time
 import random

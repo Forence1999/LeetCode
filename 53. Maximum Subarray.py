@@ -1,11 +1,11 @@
-# !/usr/bin/env python
+
 # -*- coding:utf-8 _*-
 # @Author: swang
 # @Contact: wang00sheng@gmail.com
 # @Project Name: LeetCode
 # @File: 53. Maximum Subarray.py
 # @Time: 2022/04/02/11:47
-# @Software: PyCharm
+
 import os, sys
 import time
 import random

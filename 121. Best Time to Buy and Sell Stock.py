@@ -1,11 +1,11 @@
-# !/usr/bin/env python
+
 # -*- coding:utf-8 _*-
 # @Author: swang
 # @Contact: wang00sheng@gmail.com
 # @Project Name: LeetCode
 # @File: 121. Best Time to Buy and Sell Stock.py
 # @Time: 2022/04/02/11:31
-# @Software: PyCharm
+
 import os, sys
 import time
 import random
