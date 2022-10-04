@@ -1,11 +1,11 @@
-# !/usr/bin/env python
+
 # -*- coding:utf-8 _*-
 # @Author: swang
 # @Contact: wang00sheng@gmail.com
 # @Project Name: LeetCode
 # @File: 70. Climbing Stairs.py
 # @Time: 2022/04/01/21:48
-# @Software: PyCharm
+
 import os, sys
 import time
 import random

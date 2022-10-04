@@ -1,11 +1,11 @@
-# !/usr/bin/env python
+
 # -*- coding:utf-8 _*-
 # @Author: swang
 # @Contact: wang00sheng@gmail.com
 # @Project Name: LeetCode
 # @File: 104. Maximum Depth of Binary Tree.py
 # @Time: 2022/04/01/22:13
-# @Software: PyCharm
+
 import os, sys
 import time
 import random

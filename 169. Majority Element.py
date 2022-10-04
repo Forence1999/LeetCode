@@ -1,11 +1,11 @@
-# !/usr/bin/env python
+
 # -*- coding:utf-8 _*-
 # @Author: swang
 # @Contact: wang00sheng@gmail.com
 # @Project Name: LeetCode
 # @File: 169. Majority Element.py
 # @Time: 2022/03/06/18:14
-# @Software: PyCharm
+
 import os, sys
 import time
 import random

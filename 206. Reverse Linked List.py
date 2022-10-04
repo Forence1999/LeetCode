@@ -1,11 +1,11 @@
-# !/usr/bin/env python
+
 # -*- coding:utf-8 _*-
 # @Author: swang
 # @Contact: wang00sheng@gmail.com
 # @Project Name: LeetCode
 # @File: 206. Reverse Linked List.py
 # @Time: 2022/03/06/17:28
-# @Software: PyCharm
+
 import os, sys
 import time
 import random
